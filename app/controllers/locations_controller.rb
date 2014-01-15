@@ -5,7 +5,7 @@ class LocationsController < ApplicationController
       Location.new(name: 'Atrium Cafe', location: 'Sage Hall', region: 'Central', type: 'cafe', calendar_address: '9g3c81c0p2loacsbvrjj5o371c'),
       Location.new(name: 'Bear Necessities', location: 'RPCC', region: 'North', type: 'cafe', calendar_address: 'h319a8fk4b5lv0644ebkskhha8'),
       Location.new(name: "Bear's Den", location: 'Willard Straight Hall', region: 'Central', type: 'cafe', calendar_address: '9pkqrt6elrngarcrf1s4vvdqf4'),
-      Location.new(name: 'Big Red Barn', location: 'Behind A.D White house', region: 'Centrail', type: 'cafe', calendar_address: 'u1kmovdep2qlmr86io8h4p3ee8'),
+      Location.new(name: 'Big Red Barn', location: 'Behind A.D White house', region: 'Central', type: 'cafe', calendar_address: 'u1kmovdep2qlmr86io8h4p3ee8'),
       Location.new(name: 'Cafe Jennie', location: 'Cornell Store', region: 'Central', type: 'cafe', calendar_address: '05r2nhfjbnknmsccgd6u8dij0g'),
       Location.new(name: "Carol's Cafe", location: 'Balch Hall', region: 'North', type: 'cafe', calendar_address: '7sii70faon9ta2vpoehr69415s'),
       Location.new(name: 'Cascadeli', location: 'Willard Straight Hall', region: 'Central', type: 'cafe', calendar_address: 'ju94n6trv0ccoqcnd5u7otle50'),
