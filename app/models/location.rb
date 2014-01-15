@@ -1,7 +1,6 @@
 require 'open-uri'
 
 class Location < ActiveRecord::Base
-  attr_accessible :name, :location, :region, :type, :is_open, :calendar_address, :is_open
 
   def is_open?()
     _is_open = false
